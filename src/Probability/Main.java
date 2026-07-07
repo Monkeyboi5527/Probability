@@ -14,10 +14,12 @@ void main() {
         return IntStream.range(0, n).map(i -> coinFlip(random)).toArray();
     }
 
+    /// Uses random to return an integer thats either a 0(heads) or a 1(tails)
     public int coinFlip(Random random) {
         return random.nextInt(0,2);
     }
     
+    /// Probability formula: # of favorable outcomes/ # of total outcomes 
     public float probability(float a, float b) {
         return a/b;
     }
