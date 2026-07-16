@@ -1,2 +1,4 @@
 "What is a prediction model?"
 A prediction model is a mathematical, statistical, or machine learning model that uses existing data to estimate or forecast an unknown outcome.
+
+The earliest known prediction models were created by the Babylonians (around 1800–500 BC) to predict the movements of the Sun, Moon, planets, and eclipses. In the 1800s, mathematicians developed least squares and linear regression, which became the foundation of modern statistical prediction methods. In 1958, Frank Rosenblatt introduced the Perceptron, one of the first machine learning models that could learn from data to make predictions.
